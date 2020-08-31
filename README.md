@@ -12,7 +12,7 @@
 
 <br /><br />
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif"/>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="25%"/>
 
 **Who am I?**
 
