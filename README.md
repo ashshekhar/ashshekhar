@@ -53,6 +53,3 @@ When not working, I can be found brainstorming on my next project, but mostly bi
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-**GitHub Stats**
-
-![Shashwat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashshekhar&show_icons=true&hide_border=true)
