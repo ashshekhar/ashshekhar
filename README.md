@@ -12,9 +12,10 @@
 
 <br /><br />
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="25%"/>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="30%"/>
   
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Who am I?**
 
 Passionate about volunteering, technology and programming, I am always looking to undertake real-world problems and try solving them through the power of technology!
@@ -24,6 +25,7 @@ Currently, I am majoring in Computer Science with Minors in Mathematics and Lead
 When not working, I can be found brainstorming on my next project, but mostly binge-watching MKBHD on YouTube, playing badminton, or just sipping on some coffee ☕️
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+
 **What am I doing currently?**
 
 - 💪 Leading a technical project for [Cocoa-Packs](https://cocoapacks.org/) and helping them go digital from scratch
@@ -32,7 +34,9 @@ When not working, I can be found brainstorming on my next project, but mostly bi
 - 🧩 Learning Algorithms and Game Theory
 - ⚡️ Fun-Fact: I am doing three minors
 - 📨 Reach me here: shashwats169@gmail.com
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Languages and Tools:**
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -48,5 +52,7 @@ When not working, I can be found brainstorming on my next project, but mostly bi
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+
 **GitHub Stats**
+
 ![Shashwat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashshekhar&show_icons=true&hide_border=true)
