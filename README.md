@@ -32,7 +32,6 @@ When not working, I can be found brainstorming on my next project, but mostly bi
 - 📌 Developing and hosting free virtual sessions on regression, data visualization, deep learning and much more at [NDL](https://ndl.psu.edu/)
 - 📱 Trying my hands on Flutter
 - 🧩 Learning Algorithms and Game Theory
-- ⚡️ Fun-Fact: I am doing three minors
 - 📨 Reach me here: shashwats169@gmail.com
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
