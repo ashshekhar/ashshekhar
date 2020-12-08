@@ -20,7 +20,7 @@
 
 Passionate about volunteering, technology and programming, I am always looking to undertake real-world problems and try solving them through the power of technology!
 
-Currently, I am majoring in Computer Science with Minors in Mathematics and Leadership Development at [The Pennsylvania State University](https://www.psu.edu/)
+Currently, I am majoring in Computer Science with Minors in Mathematics and Engineering Leadership Development at [The Pennsylvania State University](https://www.psu.edu/)
 
 When not working, I can be found brainstorming on my next project, but mostly binge-watching MKBHD on YouTube, playing badminton, or just sipping on some coffee ☕️
 
