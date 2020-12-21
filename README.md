@@ -30,8 +30,8 @@ When not working, I can be found brainstorming on my next project, but mostly bi
 
 - 💪 Leading a technical project for [Cocoa-Packs](https://cocoapacks.org/) and helping them go digital from scratch
 - 📌 Developing and hosting free virtual sessions on regression, data visualization, deep learning and much more at [NDL](https://ndl.psu.edu/)
-- 📱 Trying my hands on Flutter
-- 🧩 Learning Algorithms and Game Theory
+- 📱 Trying my hands on Flutter and SwiftUI
+- 🧩 Practicing Algorithms and Game Theory
 - 📨 Reach me here: shashwats169@gmail.com
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -46,6 +46,7 @@ When not working, I can be found brainstorming on my next project, but mostly bi
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
