@@ -6,8 +6,12 @@
   <img align="left" alt="Shashwat's Google Cloud Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
 </a>
 
+<a href="https://leetcode.com/ashshekhar/">
+  <img align="left" alt="Shashwat's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+
 <a href="https://www.linkedin.com/in/shashwatshekhar169/">
-  <img align="left" alt="Shashwat's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Shashwat's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <br /><br />
@@ -20,9 +24,9 @@
 
 Passionate about volunteering, technology and programming, I am always looking to undertake real-world problems and try solving them through the power of technology!
 
-Currently, I am majoring in Computer Science with Minors in Mathematics and Engineering Leadership Development at [The Pennsylvania State University](https://www.psu.edu/)
+Currently, I am majoring in Computer Science with minors in Mathematics and Engineering Leadership Development at [The Pennsylvania State University](https://www.psu.edu/)
 
-When not working, I can be found brainstorming on my next project, but mostly binge-watching MKBHD on YouTube, playing badminton, or just sipping on some coffee ☕️
+When not working, I can be found brainstorming on my next project, but mostly binge-watching Netflix, playing badminton, or just sipping on some coffee ☕️
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -31,8 +35,8 @@ When not working, I can be found brainstorming on my next project, but mostly bi
 - 💪 Leading a technical project for [Cocoa-Packs](https://cocoapacks.org/) and helping them go digital from scratch
 - 📌 Developing and hosting free virtual sessions on regression, data visualization, deep learning and much more at [NDL](https://ndl.psu.edu/)
 - 📱 Trying my hands on Flutter and SwiftUI
-- 🧩 Practicing Algorithms and Game Theory
-- 📨 Reach me here: shashwats169@gmail.com
+- 🧩 Practicing algorithms on [Leetcode](https://leetcode.com/ashshekhar/)
+- 📨 Most of my repositories are private, if interested in viewing my work feel free to reach me here: shashwats169@gmail.com
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -45,6 +49,7 @@ When not working, I can be found brainstorming on my next project, but mostly bi
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
