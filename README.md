@@ -6,10 +6,6 @@
   <img align="left" alt="Shashwat's Google Cloud Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
 </a>
 
-<a href="https://leetcode.com/ashshekhar/">
-  <img align="left" alt="Shashwat's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-
 <a href="https://www.linkedin.com/in/shashwatshekhar169/">
   <img align="left" alt="Shashwat's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -35,7 +31,7 @@ When not working, I can be found brainstorming on my next project, but mostly bi
 - 💪 Leading a technical project for [Cocoa-Packs](https://cocoapacks.org/) and helping them go digital from scratch
 - 📌 Developing and hosting free virtual sessions on regression, data visualization, deep learning and much more at [NDL](https://ndl.psu.edu/)
 - 📱 Trying my hands on Flutter and SwiftUI
-- 🧩 Practicing algorithms on [Leetcode](https://leetcode.com/ashshekhar/)
+- 🧩 Practicing algorithms on LeetCode
 - 📨 Most of my repositories are private, if interested in viewing my work feel free to reach me here: shashwats169@gmail.com
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
