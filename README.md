@@ -14,13 +14,17 @@
   <img align="left" alt="Shashwat's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
+<a href="https://www.kaggle.com/ashshekhar">
+  <img align="left" alt="Shashwat's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+</a>
+
 <a href="https://www.hackerrank.com/ashshekhar">
   <img align="left" alt="Shashwat's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
 <br /><br />
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="30%"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="30%"/>
   
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
