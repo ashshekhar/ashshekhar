@@ -24,7 +24,7 @@
 
 <br /><br />
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="30%"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="45%"/>
   
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
