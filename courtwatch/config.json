@@ -1,0 +1,35 @@
+{
+  "case_name": "Presidents' Alliance on Higher Education and Immigration et al. v. U.S. Dept. of Homeland Security et al.",
+  "docket_number": "1:26-cv-13799",
+  "court_id": "mad",
+  "pacer_case_id_hint": "297314",
+  "cutoff_date": "2026-09-20",
+  "high_priority_keywords": [
+    "injunction", "granted", "denied", "stay", "vacate",
+    "postpone", "ORDER", "MEMORANDUM"
+  ],
+  "stale_alert_after_consecutive_failures": 4,
+  "speak_high_priority": true,
+  "sources": [
+    {
+      "id": "courtlistener",
+      "label": "CourtListener/RECAP docket 1:26-cv-13799 (D. Mass.)",
+      "kind": "courtlistener",
+      "priority": 1
+    },
+    {
+      "id": "nafsa",
+      "label": "NAFSA legal defense - duration of status",
+      "kind": "html",
+      "url": "https://www.nafsa.org/legal-defense-DS",
+      "priority": 2
+    },
+    {
+      "id": "presidents_alliance",
+      "label": "Presidents' Alliance duration-of-status litigation",
+      "kind": "html",
+      "url": "https://www.presidentsalliance.org/duration-of-status-litigation/",
+      "priority": 3
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.shashwat.courtwatch</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>__PYTHON__</string>
+    <string>__SCRIPT__</string>
+  </array>
+
+  <!-- Times are the Mac's LOCAL clock (IST for you).
+       Every 2 hours, 6pm -> 2am. Minute 7 keeps it off the busy :00 mark.
+       If a run is missed because the laptop was asleep, launchd fires the
+       job once on wake. Several missed slots collapse into one catch-up
+       run, which is fine: the script compares against stored hashes, not
+       against elapsed time, so nothing is lost. -->
+  <key>StartCalendarInterval</key>
+  <array>
+    <dict><key>Hour</key><integer>18</integer><key>Minute</key><integer>7</integer></dict>
+    <dict><key>Hour</key><integer>20</integer><key>Minute</key><integer>7</integer></dict>
+    <dict><key>Hour</key><integer>22</integer><key>Minute</key><integer>7</integer></dict>
+    <dict><key>Hour</key><integer>0</integer><key>Minute</key><integer>7</integer></dict>
+    <dict><key>Hour</key><integer>2</integer><key>Minute</key><integer>7</integer></dict>
+  </array>
+
+  <!-- Capture a baseline the moment it is installed. -->
+  <key>RunAtLoad</key>
+  <true/>
+
+  <key>StandardOutPath</key>
+  <string>__STATE__/launchd.out.log</string>
+  <key>StandardErrorPath</key>
+  <string>__STATE__/launchd.err.log</string>
+
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key>
+    <string>/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin</string>
+    <key>COURTWATCH_STATE</key>
+    <string>__STATE__</string>
+  </dict>
+
+  <key>ProcessType</key>
+  <string>Background</string>
+
+  <!-- Do not let a hung fetch linger into the next slot. -->
+  <key>ExitTimeOut</key>
+  <integer>180</integer>
+</dict>
+</plist>
