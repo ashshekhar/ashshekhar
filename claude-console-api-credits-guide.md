@@ -2,6 +2,8 @@
 
 Prepared 9 October 2026. Prices are from Anthropic's pricing page on that date and change over time.
 
+For what to actually do with the credit, see `claude-console-deep-dive.md`. Section 4 below is superseded by it.
+
 ## 1. What this is
 
 Your Claude subscription (Max) and the Claude Console are two separate products with two separate balances.
